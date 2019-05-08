@@ -13,9 +13,6 @@ a = :key
 name_hash.each do |key, value|
 
 if value <= b
-
-if value < b
->>>>>>> 19e49916f37af212ecc0654bf9ab95a43df4d918
 b  = value
 a = key
 end
